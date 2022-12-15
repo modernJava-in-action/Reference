@@ -10,7 +10,7 @@
   - [effective final](https://madplay.github.io/post/effectively-final-in-java)
 
 + 3주차 : chapter4 (스트림 소개)
-- [남궁성님 유투브 : 스트림, 스트림의 특징](https://www.youtube.com/watch?v=7Kyf4mMjbTQ)
+  - [남궁성님 유투브 : 스트림, 스트림의 특징](https://www.youtube.com/watch?v=7Kyf4mMjbTQ)
   - [남궁성님 유튜브 : 스트림 만들기](https://www.youtube.com/watch?v=AOw4cCVUJC4)
   - [남궁성님 유튜브 : 스트림 연산](https://www.youtube.com/watch?v=iY8ta9upajE)
   - [남궁성님 유튜브 : 중간 연산 1](https://www.youtube.com/watch?v=G2lPQB42GL8)
