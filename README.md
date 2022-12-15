@@ -19,6 +19,7 @@
   - [퀴즈](https://github.com/HyangKeunChoi/modern-java-in-action-study/blob/main/%ED%96%A5%EA%B7%BC/chapter4/quiz.md)
   - [람다 , 스트림을 활용한 코딩테스트 풀이](https://yeonyeon.tistory.com/156)
   - [Lazy Evaluation](https://dororongju.tistory.com/137)
+  - [컬렉션에서 원소 삭제하기](https://www.daleseo.com/how-to-remove-from-list-in-java/)
 
 + 4주차 : chapter5 (스트림 활용)
   - [Stream api 문제모음](https://github.com/MangKyu/stream-quiz)
