@@ -30,5 +30,6 @@
 + 10주차 : chapter11 (Optional)
   - [Optional + Test 코드](https://engkimbs.tistory.com/646)  
   - [orElse와 orElseGet](https://ysjune.github.io/posts/java/orelsenorelseget/)  
+  - [Optional 바르게 쓰기](https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/)
   
 
