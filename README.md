@@ -3,7 +3,6 @@
 + 공통 내용
   - [Comparable과 Comparator](https://st-lab.tistory.com/243)  
   - [Statement와 Expression](https://wisdom-and-record.tistory.com/65)  
-  - [Optional + Test 코드](https://engkimbs.tistory.com/646)
 
 + 2주차 : chapter3 (람다 표현식)
   - [남궁성님 유튜브 : 람다](https://www.youtube.com/watch?v=3wnmgM4qK30)
