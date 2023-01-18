@@ -28,7 +28,7 @@
   - [Stream의 forEach와 for-loop은 다르다](https://tecoble.techcourse.co.kr/post/2020-05-14-foreach-vs-forloop/)
   
  + 5주차 : chapter6 (스트림으로 데이터 수집)
-  - [collect, Collector, Collectors](https://velog.io/@ggomjae/Collect-Collector-Collectors-OO) 
+    - [collect, Collector, Collectors](https://velog.io/@ggomjae/Collect-Collector-Collectors-OO) 
 
 + 10주차 : chapter11 (Optional)
   - [Optional + Test 코드](https://engkimbs.tistory.com/646)  
