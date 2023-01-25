@@ -30,6 +30,9 @@
  + 5주차 : chapter6 (스트림으로 데이터 수집)
     - [collect, Collector, Collectors](https://velog.io/@ggomjae/Collect-Collector-Collectors-OO) 
 
++ 6주차 : chapter7 (병렬 데이터 처리와 성능)
+    - [JMH로 성능 벤치마킹](https://velog.io/@adduci/Java-JMHJava-Microbenchmark-Harness-%EB%A1%9C-%EC%84%B1%EB%8A%A5-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9) 
+
 + 10주차 : chapter11 (Optional)
   - [Optional + Test 코드](https://engkimbs.tistory.com/646)  
   - [orElse와 orElseGet](https://ysjune.github.io/posts/java/orelsenorelseget/)  
